@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/bin/Debug/net9.0/20-Lesson
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/bin/Debug/net9.0/20-Lesson.deps.json
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/bin/Debug/net9.0/20-Lesson.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/bin/Debug/net9.0/20-Lesson.dll
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/bin/Debug/net9.0/20-Lesson.pdb
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.dll
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/refint/20-Lesson.dll
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.pdb
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/20-Lesson.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/20-Lesson/20-Lesson/obj/Debug/net9.0/ref/20-Lesson.dll
