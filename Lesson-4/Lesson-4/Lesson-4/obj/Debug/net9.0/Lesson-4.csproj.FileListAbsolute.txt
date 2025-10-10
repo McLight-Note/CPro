@@ -1,0 +1,15 @@
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.AssemblyInfoInputs.cache
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.AssemblyInfo.cs
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.csproj.CoreCompileInputs.cache
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.sourcelink.json
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/bin/Debug/net9.0/Lesson-4
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/bin/Debug/net9.0/Lesson-4.deps.json
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/bin/Debug/net9.0/Lesson-4.runtimeconfig.json
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/bin/Debug/net9.0/Lesson-4.dll
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/bin/Debug/net9.0/Lesson-4.pdb
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.dll
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/refint/Lesson-4.dll
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.pdb
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/Lesson-4.genruntimeconfig.cache
+/Users/mclight/Downloads/GitHub/CPro/Lesson-4/Lesson-4/Lesson-4/obj/Debug/net9.0/ref/Lesson-4.dll
