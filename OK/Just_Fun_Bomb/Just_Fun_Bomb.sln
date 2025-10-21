@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Just_Fun_Bomb", "Just_Fun_Bomb\Just_Fun_Bomb.csproj", "{67206A14-C739-4F6A-A632-6B1458ED51FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67206A14-C739-4F6A-A632-6B1458ED51FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67206A14-C739-4F6A-A632-6B1458ED51FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67206A14-C739-4F6A-A632-6B1458ED51FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67206A14-C739-4F6A-A632-6B1458ED51FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

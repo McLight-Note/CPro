@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/bin/Debug/net9.0/Lesson-27
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/bin/Debug/net9.0/Lesson-27.deps.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/bin/Debug/net9.0/Lesson-27.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/bin/Debug/net9.0/Lesson-27.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/bin/Debug/net9.0/Lesson-27.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/refint/Lesson-27.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/Lesson-27.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-27/Lesson-27/obj/Debug/net9.0/ref/Lesson-27.dll
