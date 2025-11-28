@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/bin/Debug/net9.0/Lesson-22
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/bin/Debug/net9.0/Lesson-22.deps.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/bin/Debug/net9.0/Lesson-22.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/bin/Debug/net9.0/Lesson-22.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/bin/Debug/net9.0/Lesson-22.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/refint/Lesson-22.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/Lesson-22.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-22/Lesson-22/obj/Debug/net9.0/ref/Lesson-22.dll
