@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/bin/Debug/net9.0/Lesson-43
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/bin/Debug/net9.0/Lesson-43.deps.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/bin/Debug/net9.0/Lesson-43.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/bin/Debug/net9.0/Lesson-43.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/bin/Debug/net9.0/Lesson-43.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/refint/Lesson-43.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/Lesson-43.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-43/Lesson-43/obj/Debug/net9.0/ref/Lesson-43.dll
