@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/bin/Debug/net9.0/Lesson-44
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/bin/Debug/net9.0/Lesson-44.deps.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/bin/Debug/net9.0/Lesson-44.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/bin/Debug/net9.0/Lesson-44.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/bin/Debug/net9.0/Lesson-44.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/refint/Lesson-44.dll
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.pdb
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/Lesson-44.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Lesson-44/Lesson-44/obj/Debug/net9.0/ref/Lesson-44.dll
