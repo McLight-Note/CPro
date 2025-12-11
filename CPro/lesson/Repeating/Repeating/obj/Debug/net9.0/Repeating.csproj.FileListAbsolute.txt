@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/bin/Debug/net9.0/Repeating
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/bin/Debug/net9.0/Repeating.deps.json
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/bin/Debug/net9.0/Repeating.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/bin/Debug/net9.0/Repeating.dll
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/bin/Debug/net9.0/Repeating.pdb
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.dll
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/refint/Repeating.dll
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.pdb
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/Repeating.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Repeating/Repeating/obj/Debug/net9.0/ref/Repeating.dll

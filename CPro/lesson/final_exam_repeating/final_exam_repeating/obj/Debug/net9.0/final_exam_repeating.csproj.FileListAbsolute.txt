@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/bin/Debug/net9.0/final_exam_repeating
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/bin/Debug/net9.0/final_exam_repeating.deps.json
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/bin/Debug/net9.0/final_exam_repeating.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/bin/Debug/net9.0/final_exam_repeating.dll
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/bin/Debug/net9.0/final_exam_repeating.pdb
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.dll
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/refint/final_exam_repeating.dll
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.pdb
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/final_exam_repeating.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/final_exam_repeating/final_exam_repeating/obj/Debug/net9.0/ref/final_exam_repeating.dll

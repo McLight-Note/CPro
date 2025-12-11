@@ -1,0 +1,14 @@
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/bin/Debug/net9.0/Just_Fun_Bomb
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/bin/Debug/net9.0/Just_Fun_Bomb.deps.json
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/bin/Debug/net9.0/Just_Fun_Bomb.runtimeconfig.json
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/bin/Debug/net9.0/Just_Fun_Bomb.dll
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/bin/Debug/net9.0/Just_Fun_Bomb.pdb
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.AssemblyInfoInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.AssemblyInfo.cs
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.csproj.CoreCompileInputs.cache
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.dll
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/refint/Just_Fun_Bomb.dll
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.pdb
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/Just_Fun_Bomb.genruntimeconfig.cache
+/Users/mclight/Desktop/CPro/lesson/Just_Fun_Bomb/Just_Fun_Bomb/obj/Debug/net9.0/ref/Just_Fun_Bomb.dll
